@@ -2,8 +2,11 @@
 name = "cosmoteer_mod_helper"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "Simple tool to help players sync mods"
+license = "MIT"
+license-file = "LICENSE"
+homepage = "https://github.com/hardliner66/cosmoteer_mod_helper"
+repository = "https://github.com/hardliner66/cosmoteer_mod_helper"
 
 [dependencies]
 anyhow = "1.0.66"
