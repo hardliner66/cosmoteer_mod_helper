@@ -71,7 +71,7 @@ dependencies = [
 
 [[package]]
 name = "cosmoteer_mod_helper"
-version = "1.0.1"
+version = "1.0.2"
 dependencies = [
  "anyhow",
  "clap",

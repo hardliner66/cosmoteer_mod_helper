@@ -1,6 +1,6 @@
 [package]
 name = "cosmoteer_mod_helper"
-version = "1.0.1"
+version = "1.0.2"
 edition = "2021"
 description = "Simple tool to help players sync mods"
 license-file = "LICENSE"
