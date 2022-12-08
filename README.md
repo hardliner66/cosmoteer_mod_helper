@@ -1,5 +1,12 @@
 # cosmoteer_mod_helper
 
+## Installation
+
+You can download it from the [releases page](https://github.com/hardliner66/cosmoteer_mod_helper/releases) or install it with cargo:
+```bash
+cargo install cosmoteer_mod_helper
+```
+
 ## Usage
 If you just run the executable, it will create a file named `cosmoteer-mods.ron` containing all mod-ids you have enabled.
 
